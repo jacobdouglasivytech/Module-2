@@ -1,5 +1,5 @@
 #Jacob Douglas 
-#GPA Calculator
+#Case_study.py
 #this program if gets students names and gpa and place them in appropiate list (Dean's List or the Honor Roll.)
 while True:
   last_name = input("Enter students last name (or 'ZZZ' to stop): ")
