@@ -10,7 +10,7 @@ while True:
     gpa = float(input("Enter students GPA: "))
     if gpa >= 3.5:
       print(first_name, last_name, "has made the Honor Roll list and the Dean's list.")
-    elif gpa > 3.25:
+    elif gpa >= 3.25:
       print(first_name, last_name, "has made the Honor Roll list.")
     else:
       print("Better luck next semester!")
